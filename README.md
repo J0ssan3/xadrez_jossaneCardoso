@@ -1,6 +1,6 @@
 # ♟️ Jogo de xadrez em Java
 
-Este projeto é uma implementação simples do jogo de **Xadrez em Java**, utilizando **JOptionPane** para a interação com usuário. O objetivo foi práticar **conce itos de Progamação Orietada a Objetos (POO)**, como herança, polimorfismo, abstração e encapsulamento, além da **manipulação de arrays bidimensionais**.
+Este projeto é uma implementação simples do jogo de **Xadrez em Java**, utilizando **JOptionPane** para a interação com usuário. O objetivo foi práticar **conceitos de Progamação Orietada a Objetos (POO)**, como herança, polimorfismo, abstração e encapsulamento, além da **manipulação de arrays bidimensionais**.
 
 ---
 ## 🧠 Objetivo do Projeto
