@@ -11,24 +11,6 @@ Criar um jogo de xadrez funcional que permita:
 - Simular jogadas entre dois jogadores.
 
 ---
-## 🧩 Estrutura do projeto
-Jogo_xadrez/
-├─ src/
-│ └─ xadrez/
-│ ├─ Main.java
-│ ├─ Game.java
-│ ├─ ChessBoard.java
-│ ├─ PlayerColor.java
-│ └─ xadrez.pecas/
-│ ├─ Piece.java
-│ ├─ Pawn.java
-│ ├─ Rook.java
-│ ├─ Knight.java
-│ ├─ Bishop.java
-│ ├─ Queen.java
-│ └─ King.java
-
----
 ## ⚙️ Como Executar o Projeto
 1. Abra o **Eclipse** (ou qualquer IDE Java).
 2. Importe o projeto ou crie um novo projeto Java.
@@ -48,18 +30,7 @@ Jogo_xadrez/
 - **`PlayerColor`** → Enumeração que define as cores `WHITE` e `BLACK`.
 
 ---
-## 💬 Exemplo de Saída no Console
-8 r n b q k b n r
-7 p p p p p p p p
-6 - - - - - - - -
-5 - - - - - - - -
-4 - - - - - - - -
-3 - - - - - - - -
-2 P P P P P P P P
-1 R N B Q K B N R
-a b c d e f g h
 
----
 ## 🧩 Conceitos de POO Utilizados
 - **Herança:** todas as peças herdam da classe `Piece`.
 - **Polimorfismo:** o método `getSymbol()` é sobrescrito em cada tipo de peça.
